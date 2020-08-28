@@ -35,7 +35,7 @@ Creates a number of subplots using the `pyplot subplots` functionality.
 Creates an animation, pulling between 100 and 1000 samples from each of the random variables (`x1`, `x2`, `x3`, `x4`) for each plot and plotting this as we did in the lecture on animation.
 
 
-* 3rd: Assinment_2 *
+* 3rd: Assinment_2 
 
 An NOAA dataset has been use for this assignment. 
 Note: The data for this assignment comes from a subset of The National Centers for Environmental Information (NCEI) Daily Global Historical Climatology Network (GHCN-Daily). The GHCN-Daily is comprised of daily climate records from thousands of land surface stations across the globe.
