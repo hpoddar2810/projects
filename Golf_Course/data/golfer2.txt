@@ -1,0 +1,6 @@
+Christine Sutherland,Full,23.1
+Paul Broadhurst,Basic,4
+Woody Austin,Full,19
+Sharon Short,Basic,21.3
+Bernhard Langer,Full,24.6
+Lisa Goosen,Full,2
